@@ -4,6 +4,7 @@ Application with login and password input that performs navigation to a home pag
 
 ## Technology
 
+- [Dart](https://dart.dev/)
 - [Flutter](https://flutter.dev/)
 
 ### Clone
