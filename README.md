@@ -1,6 +1,6 @@
 # login UI + List - Flutter
 
-Rest API for product inventory control developed with Java Spring Boot. This project was make on "Microservice And Web Engineering" course from [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/)
+Application with login and password input that performs navigation to a home page, developed with Flutter. This project was make on "Desenvolvimento Cross Platform" course from [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/)
 
 ## Technology
 
