@@ -221,7 +221,7 @@ class _HomeScreenState extends State<HomeScreen> {
     AlertDialog alerta = AlertDialog(
       title: Text("Dev Team :)"),
       content: Text(
-          "André Marques Sobrinho\nRM: 85117\n\nJoão Pedro Saliés Molliet\nRM: 82035\n\nPedro Henrique de Sousa Carnaval\nRM: 85057"),
+          "Matheus Lopes de Barros\nRM: 80802\n"),
       actions: [
         okButton,
       ],
