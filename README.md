@@ -23,8 +23,20 @@ flutter pub get
 Run this file: **[main.dart](https://github.com/Math-Barros/space_tourism/blob/main/space_tourism/lib/main.dart)**
 
 ## Preview
-![Preview](/Preview_1.png)
-![Preview](/Preview_2.png)
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="/Preview_1.webm" width="150" alt="Preview 1" />
+    </td>
+    <td align="center">
+      <img src="/Preview_2.webm" width="150" alt="Preview 2" />
+    </td>
+    <td align="center">
+      <img src="/Preview_3.webm" width="150" alt="Preview 3" />
+    </td>
+  </tr>
+</table>
 
 --- 
 developed by [Matheus Barros](https://github.com/Math-Barros)
