@@ -22,7 +22,7 @@ flutter pub get
 
 Run this file: **[main.dart](https://github.com/Math-Barros/space_tourism/blob/main/space_tourism/lib/main.dart)**
 
-![Preview](/Preview.png)
+![Preview](/Preview1.png)
 
 --- 
 developed by [Matheus Barros](https://github.com/Math-Barros)
