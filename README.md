@@ -20,9 +20,9 @@ flutter pub get
 
 ### Run
 
-Run this file: **[Nac1BootApplication](https://github.com/Math-Barros/microservices_gradle/blob/main/nac1-boot/src/main/java/br/com/fiap/Nac1BootApplication.java)**
+Run this file: **[main.dart](https://github.com/Math-Barros/space_tourism/blob/main/space_tourism/lib/main.dart)**
 
-![alt text](.//images/findall.png)
+![Preview](/Preview.png)
 
 --- 
 developed by [Matheus Barros](https://github.com/Math-Barros)
