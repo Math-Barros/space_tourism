@@ -27,16 +27,29 @@ Run this file: **[main.dart](https://github.com/Math-Barros/space_tourism/blob/m
 <table align="center">
   <tr>
     <td align="center">
-      <img src="/Preview_1.webm" width="150" alt="Preview 1" />
+      <img src="/Preview_1.png" width="150" alt="Preview 1" />
     </td>
     <td align="center">
-      <img src="/Preview_2.webm" width="150" alt="Preview 2" />
+      <img src="/Preview_2.png" width="150" alt="Preview 2" />
     </td>
     <td align="center">
-      <img src="/Preview_3.webm" width="150" alt="Preview 3" />
+      <img src="/Preview_3.png" width="150" alt="Preview 3" />
+    </td>
+    <td align="center">
+      <img src="/Preview_4.png" width="150" alt="Preview 4" />
+    </td>
+    <td align="center">
+      <img src="/Preview_5.png" width="150" alt="Preview 5" />
+    </td>
+    <td align="center">
+      <img src="/Preview_6.png" width="150" alt="Preview 6" />
+    </td>
+    <td align="center">
+      <img src="/Preview_7.png" width="150" alt="Preview 7" />
     </td>
   </tr>
 </table>
+
 
 --- 
 developed by [Matheus Barros](https://github.com/Math-Barros)
