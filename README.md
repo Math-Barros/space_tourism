@@ -28,29 +28,28 @@ Run this file: **[main.dart](https://github.com/Math-Barros/space_tourism/blob/m
 <table align="center">
   <tr>
     <td align="center">
-      <img src="/Preview_1.png" width="150" alt="Preview 1" />
+      <img src="/Preview_1.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
     </td>
     <td align="center">
-      <img src="/Preview_2.png" width="150" alt="Preview 2" />
+      <img src="/Preview_2.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
     </td>
     <td align="center">
-      <img src="/Preview_3.png" width="150" alt="Preview 3" />
+      <img src="/Preview_3.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
     </td>
     <td align="center">
-      <img src="/Preview_4.png" width="150" alt="Preview 4" />
+      <img src="/Preview_4.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
     </td>
     <td align="center">
-      <img src="/Preview_5.png" width="150" alt="Preview 5" />
+      <img src="/Preview_5.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
     </td>
     <td align="center">
-      <img src="/Preview_6.png" width="150" alt="Preview 6" />
+      <img src="/Preview_6.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
     </td>
     <td align="center">
-      <img src="/Preview_7.png" width="150" alt="Preview 7" />
+      <img src="/Preview_7.png" alt="Imagem 7" width="250" />
     </td>
   </tr>
 </table>
-
 
 --- 
 developed by [Matheus Barros](https://github.com/Math-Barros)
